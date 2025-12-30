@@ -5,4 +5,4 @@ On the other side of things, I am also interested in web design and implementati
 Besides IT, I also have a background and experience in photography as well as designing inforgraphics and posters.4
 
 
-- Contact me through Gmail: robinkurtpublic@gmail.com
+-📫 Contact me through Gmail: robinkurtpublic@gmail.com
