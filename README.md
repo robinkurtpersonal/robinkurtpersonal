@@ -3,14 +3,14 @@
 Welcome to my second home, my GitHub page! :) I'll be updating more of this throughout 2026. Give me a follow and I'll give a follow back! :)
 
 
-# Current Focus
+# ✅Current Focus
 
-**Software**: Python, HTML, CSS, MySQL, Java/Javascript
+**📶 Software**: Python, HTML, CSS, MySQL, Java/Javascript
 
-**Hardware**: Windows, Android, ChromeOS
+**💻Hardware**: Windows, Android, ChromeOS
 
 
-# Future Focus (Hopefully I get to focus on these in the future)
+# 💡Future Focus (Hopefully I get to focus on these in the future)
 
 **Software**: Kotlin, Swift, C++, C#
 
