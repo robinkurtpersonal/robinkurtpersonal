@@ -10,7 +10,7 @@ Welcome to my second home, my GitHub page! :) I'll be updating more of this thro
 **Hardware**: Windows, Android, ChromeOS
 
 
-# Future Focus
+# Future Focus (Hopefully I get to focus on these in the future)
 
 **Software**: Kotlin, Swift, C++, C#
 
